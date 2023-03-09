@@ -4,16 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a8784d9-3356-4595-9e49-03145b630f4a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ss7_bien_toan_tu/bai_tap/ss7_1_chu_vi_o.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss7_bien_toan_tu/bai_tap/ss7_2_chuyen_doi_tien_te.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss7_bien_toan_tu/bai_tap/ss7_3_ung_dung_may_tinh.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss8_dieu_kien/thuc_hanh/soan_bai_cau_1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss5_form_table/bai_tap/form_đang_ki_nguoi_dung.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss5_form_table/bai_tap/form_đang_ki_nguoi_dung.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss7_bien_toan_tu/bai_tap/ss7_1_S_hinh_tron.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss7_bien_toan_tu/bai_tap/ss7_1_S_hinh_tron.html" afterDir="false" />
+    <list default="true" id="e5ebf9f0-7f5d-4354-b20f-be21da5738ea" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ss9_cau_truc_dieu_kien_2/bai_tap/can_nang_co_the.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss9_cau_truc_dieu_kien_2/bai_tap/cau_lenh_switch_case.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss9_cau_truc_dieu_kien_2/thuc_hanh/su_kien_ban_phim.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss9_cau_truc_dieu_kien_2/thuc_hanh/su_kien_chuot.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss8_dieu_kien/thuc_hanh/soan_bai_cau_1.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,36 +31,34 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2MirwAIU85VKrhzZHG4qszl6RHD" />
+  <component name="ProjectId" id="2MlE70YF7NKOpYaqosNDSofCSv4" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2a8784d9-3356-4595-9e49-03145b630f4a" name="Changes" comment="" />
-      <created>1678261479382</created>
+      <changelist id="e5ebf9f0-7f5d-4354-b20f-be21da5738ea" name="Changes" comment="" />
+      <created>1678333600961</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1678261479382</updated>
-      <workItem from="1678261480502" duration="2206000" />
-      <workItem from="1678265082154" duration="404000" />
-      <workItem from="1678268661689" duration="879000" />
-      <workItem from="1678269561817" duration="1166000" />
+      <updated>1678333600961</updated>
+      <workItem from="1678333602377" duration="4126000" />
+      <workItem from="1678342856230" duration="4465000" />
     </task>
     <servers />
   </component>
