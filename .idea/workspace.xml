@@ -5,13 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e5ebf9f0-7f5d-4354-b20f-be21da5738ea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ss9_cau_truc_dieu_kien_2/bai_tap/can_nang_co_the.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss9_cau_truc_dieu_kien_2/bai_tap/cau_lenh_switch_case.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss9_cau_truc_dieu_kien_2/thuc_hanh/su_kien_ban_phim.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss9_cau_truc_dieu_kien_2/thuc_hanh/su_kien_chuot.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss9_cau_truc_dieu_kien_2/bai_tap/ss9_1_1_a_chia_b.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss9_cau_truc_dieu_kien_2/bai_tap/ss9_1_2_old.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss9_cau_truc_dieu_kien_2/bai_tap/ss9_1_3_so_sanh_voi+0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss9_cau_truc_dieu_kien_2/bai_tap/ss9_1_4_so_lon_nhat.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss9_cau_truc_dieu_kien_2/bai_tap/ss9_1_5_hoc_luc_hoc_sinh.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss9_cau_truc_dieu_kien_2/bai_tap/ss9_1_6_hoa_hong_kinh_doanh.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss9_cau_truc_dieu_kien_2/bai_tap/ss9_1_7_cuoc_dien_thoại.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss9_cau_truc_dieu_kien_2/bai_tap/ss9_2_10_tinh_gia_dien.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss9_cau_truc_dieu_kien_2/bai_tap/ss9_2_11_thue_thu_nhap_ca_nhan.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss9_cau_truc_dieu_kien_2/bai_tap/ss9_2_12_lai_ngan_hang.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss9_cau_truc_dieu_kien_2/bai_tap/ss9_2_3_dien_tich_hinh_vuong.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss9_cau_truc_dieu_kien_2/bai_tap/ss9_2_4_tinh_dien_tich_hinh_chu_nhat.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss9_cau_truc_dieu_kien_2/bai_tap/ss9_2_5_dien_tich_tam_giac.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss9_cau_truc_dieu_kien_2/bai_tap/ss9_2_6_phuong_trinh_bac_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss9_cau_truc_dieu_kien_2/bai_tap/ss9_2_7_phuong_trinh_bac_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss9_cau_truc_dieu_kien_2/bai_tap/ss9_2_8_tuoi_mot_nguoi.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss9_cau_truc_dieu_kien_2/bai_tap/ss9_2_9_kiem_tra_3_so_thuc.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss8_dieu_kien/thuc_hanh/soan_bai_cau_1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9_cau_truc_dieu_kien_2/bai_tap/can_nang_co_the.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss9_cau_truc_dieu_kien_2/bai_tap/cau_lenh_switch_case.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +71,9 @@
       <option name="presentableId" value="Default" />
       <updated>1678333600961</updated>
       <workItem from="1678333602377" duration="4126000" />
-      <workItem from="1678342856230" duration="4465000" />
+      <workItem from="1678342856230" duration="9975000" />
+      <workItem from="1678369517263" duration="2264000" />
+      <workItem from="1678410630266" duration="8198000" />
     </task>
     <servers />
   </component>
