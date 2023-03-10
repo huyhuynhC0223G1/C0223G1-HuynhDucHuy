@@ -9,12 +9,12 @@
     let tienvay = prompt("Nhập số tiền vay") * 1;
     let laithang = prompt("nhập số lãi hàng tháng(%)") * 1;
     let thoigian = prompt("Nhập số tháng vay") * 1;
-    let tienlai = tienvay * (laithang / 100) * thoigian;
-    let tienno = (tienvay + tienlai) * (laithang / 100) * thoigian;
+    let laime = tienvay * (laithang / 100) * thoigian;
+    let laicon = (tienvay + laime) * (laithang / 100) * thoigian;
     if (thoigian <= 3) {
-        alert("Tiền lãi cần trả: " + tienlai);
+        alert("Tiền lãi cần trả: " + laime);
     } else {
-        alert("Tiền lãi cần trả: " + tienno);
+        alert("Tiền lãi cần trả: " + laicon);
     }
 
 </script>
