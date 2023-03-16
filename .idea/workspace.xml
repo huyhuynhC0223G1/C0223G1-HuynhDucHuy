@@ -5,19 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e5ebf9f0-7f5d-4354-b20f-be21da5738ea" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ss12_mang_1/bai_tap/ds.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss10_cau_truc_vong_lap_1/bai_tap/ss10_1_2_nhiet_do_hien_tai.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss10_cau_truc_vong_lap_1/bai_tap/ss10_1_2_nhiet_do_hien_tai.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss10_cau_truc_vong_lap_1/bai_tap/ss10_1_3_hien_20_so_dau.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss10_cau_truc_vong_lap_1/bai_tap/ss10_1_3_hien_20_so_dau.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss10_cau_truc_vong_lap_1/bai_tap/ss10_1_5_tong_20_so_fibonacci.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss10_cau_truc_vong_lap_1/bai_tap/ss10_1_5_tong_20_so_fibonacci.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss10_cau_truc_vong_lap_1/bai_tap/ss10_1_6_tong_30_so.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss10_cau_truc_vong_lap_1/bai_tap/ss10_1_7_fizz_buzz.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss10_cau_truc_vong_lap_1/bai_tap/ss10_1_8_game_doan_so.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss10_cau_truc_vong_lap_1/bai_tap/ss10_1_bang_cuu_chuong.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss10_cau_truc_vong_lap_1/bai_tap/ss10_1_bang_cuu_chuong.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss10_cau_truc_vong_lap_1/bai_tap/ss10_2_1_in_day_fibonacci.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss10_cau_truc_vong_lap_1/bai_tap/ss10_2_2_tinh_giai_thua_1_so.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss10_cau_truc_vong_lap_1/bai_tap/ss10_2_3_tam_giac_vuong.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss10_cau_truc_vong_lap_1/bai_tap/ss10_2_4_in_hinh_chu_nhat.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss10_cau_truc_vong_lap_1/bai_tap/ss10_2_5_lai_ngan_hang.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss11_cau_truc_vong_lap_2/bai_tap/ss10_1_6_tong_30_so.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss11_cau_truc_vong_lap_2/bai_tap/ss10_1_6_tong_30_so.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss11_cau_truc_vong_lap_2/bai_tap/ss11_2_3_tam_giac_vuong.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss11_cau_truc_vong_lap_2/bai_tap/ss11_2_3_tam_giac_vuong.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss12_mang_1/thuc_hanh/s12_tim_gia_tri_trong_bang.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss12_mang_1/thuc_hanh/s12_tim_gia_tri_trong_bang.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss12_mang_1/thuc_hanh/ss12_1_5_so_nguyen_am.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss12_mang_1/thuc_hanh/ss12_dao_nguoc_day_so.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss12_mang_1/thuc_hanh/ss12_dao_nguoc_day_so.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss12_mang_1/thuc_hanh/ss12_so_lon_nhat.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss12_mang_1/thuc_hanh/ss12_so_lon_nhat.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss12_mang_1/thuc_hanh/ss12_thao_tac_voi_mang.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss12_mang_1/thuc_hanh/ss12_thao_tac_voi_mang.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +32,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2MlE70YF7NKOpYaqosNDSofCSv4" />
   <component name="ProjectViewState">
@@ -73,7 +72,12 @@
       <workItem from="1678691011501" duration="9047000" />
       <workItem from="1678700329169" duration="2462000" />
       <workItem from="1678756319940" duration="13153000" />
-      <workItem from="1678774573128" duration="5698000" />
+      <workItem from="1678774573128" duration="6272000" />
+      <workItem from="1678841285488" duration="1325000" />
+      <workItem from="1678849981041" duration="21887000" />
+      <workItem from="1678881700740" duration="16000" />
+      <workItem from="1678882370445" duration="9381000" />
+      <workItem from="1678928226303" duration="443000" />
     </task>
     <servers />
   </component>
