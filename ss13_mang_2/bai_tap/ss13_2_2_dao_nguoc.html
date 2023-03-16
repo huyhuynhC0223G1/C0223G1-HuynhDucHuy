@@ -6,17 +6,17 @@
 </head>
 <body>
 <script>
-    let a = [5, 4, 3, 2, 1, 0];
+    let array = [5, 4, 3, 2, 1, 0];
     let first = 0
-    let last = a.length - 1;
+    let last = array.length - 1;
     while (first < last) {
-        let text = a[first]
-        a[first] = a[last];
-        a[last] = text;
+        let text = array[first]
+        array[first] = array[last];
+        array[last] = text;
         first++;
         last--;
     }
-    document.write(a.join(''));
+    document.write(array.join(''));
 </script>
 </body>
 </html>

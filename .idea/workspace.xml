@@ -5,16 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e5ebf9f0-7f5d-4354-b20f-be21da5738ea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ss13_mang_2/bai_tap/ss12_1_9_noi_mang.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss13_mang_2/bai_tap/ss13_2_1_tao_mang_hai_chieu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss13_mang_2/bai_tap/ss13_2_2_dao_nguoc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss13_mang_2/bai_tap/ss13_2_3_dem_so.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss13_mang_2/bai_tap/ss13_2_4_dem_tu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss13_mang_2/bai_tap/ss13_2_5_so_sanh.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss13_mang_2/bai_tap/ss13_2_6_thay_ki_tu.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss12_mang_1/bai_tap/ds.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss12_mang_1/bai_tap/ss12_1_6_kiem_tra_v.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss12_mang_1/bai_tap/ss12_1_6_kiem_tra_v.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss13_mang_2/bai_tap/ss12_1_9_noi_mang.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss13_mang_2/bai_tap/ss12_1_9_noi_mang.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss13_mang_2/bai_tap/ss13_2_1_tao_mang_hai_chieu.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss13_mang_2/bai_tap/ss13_2_1_tao_mang_hai_chieu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss13_mang_2/bai_tap/ss13_2_2_dao_nguoc.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss13_mang_2/bai_tap/ss13_2_2_dao_nguoc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss13_mang_2/bai_tap/ss13_2_3_dem_so.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss13_mang_2/bai_tap/ss13_2_3_dem_so.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss13_mang_2/bai_tap/ss13_2_5_so_sanh.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss13_mang_2/bai_tap/ss13_2_5_so_sanh.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +76,7 @@
       <workItem from="1678882370445" duration="9381000" />
       <workItem from="1678928226303" duration="443000" />
       <workItem from="1678930532381" duration="13472000" />
+      <workItem from="1678957018949" duration="346000" />
     </task>
     <servers />
   </component>

@@ -6,20 +6,20 @@
 </head>
 <body>
 <script>
-    a = prompt("Nhập chuỗi 1: ");
-    b = prompt("Nhập chuỗi 2: ");
+    array1 = prompt("Nhập chuỗi 1: ");
+    array2 = prompt("Nhập chuỗi 2: ");
     let text = 0;
-    if (a.length !== b.length) {
+    if (array1.length !== array2.length) {
         alert("Hai chuỗi không giống nhau");
     } else {
-        for (let i = 0; i < a.length; i++) {
-            if (a[i] === b[i]) {
+        for (let i = 0; i < array1.length; i++) {
+            if (array1[i] === array2[i]) {
                 text++;
             } else {
                 alert("Hai chuỗi không giống nhau");
             }
         }
-        if (text == a.length) {
+        if (text == array1.length) {
             alert("Hai chuỗi bằng nhau");
         }
     }
