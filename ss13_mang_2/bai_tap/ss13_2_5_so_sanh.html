@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    a = prompt("Nhập chuỗi 1: ");
+    b = prompt("Nhập chuỗi 2: ");
+    let text = 0;
+    if (a.length !== b.length) {
+        alert("Hai chuỗi không giống nhau");
+    } else {
+        for (let i = 0; i < a.length; i++) {
+            if (a[i] === b[i]) {
+                text++;
+            } else {
+                alert("Hai chuỗi không giống nhau");
+            }
+        }
+        if (text == a.length) {
+            alert("Hai chuỗi bằng nhau");
+        }
+    }
+    // let a;
+    // let b;
+    // let text = true;
+    // do {
+    //     a = prompt("chuỗi 1");
+    //     b = prompt("chuỗi 2");
+    //     if (a === b) {
+    //         alert("Hai chuỗi giống nhau.");
+    //         break;
+    //     } else {
+    //         alert("Hai chuỗi khác nhau");
+    //     }
+    // } while (true);
+
+</script>
+</body>
+</html>

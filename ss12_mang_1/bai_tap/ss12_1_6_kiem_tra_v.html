@@ -6,17 +6,20 @@
 </head>
 <body>
 <script>
-    let number = [5, 8, 6, 7, 8, 9, 6, 1, 4, 8];
+    let array = [5, 8, 6, 7, 8, 9, 6, 1, 4, 8];
     let v = prompt("Nhập số V: ") * 1;
     let i = 0;
-    while (i < number.length) {
-        if (v == number[i]) {
-            alert("V is in the array");
+    let flag = false
+    while (i < array.length) {
+        if (v == array[i]) {
+            flag = true;
             break;
-        } else {
-            alert("V is not in the array");
         }
-        i++;
+    }
+    if (flag) {
+        alert("V is in the array")
+    } else {
+        alert("V is not in the array");
     }
 </script>
 </body>

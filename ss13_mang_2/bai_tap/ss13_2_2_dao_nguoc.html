@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let a = [5, 4, 3, 2, 1, 0];
+    let first = 0
+    let last = a.length - 1;
+    while (first < last) {
+        let text = a[first]
+        a[first] = a[last];
+        a[last] = text;
+        first++;
+        last--;
+    }
+    document.write(a.join(''));
+</script>
+</body>
+</html>
