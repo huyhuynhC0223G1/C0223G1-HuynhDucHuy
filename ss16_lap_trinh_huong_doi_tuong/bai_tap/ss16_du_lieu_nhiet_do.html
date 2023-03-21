@@ -6,10 +6,20 @@
 </head>
 <body>
 <script>
-  class Temperature{
-    constructor(celsius) {
-    },Fahrenheit
-  }
+    class Temperature {
+        constructor(celsius) {
+            this.celsius = celsius;
+        }
+        getFahrenheit() {
+            return this.celsius * 1.8 + 32;
+        }
+        getKelvin() {
+            return this.celsius + 273.15;
+        }
+    }
+    let temperature = new Temperature(25);
+    document.write("<br>" + "Độ F: " + temperature.getFahrenheit() + "<br>");
+    document.write("Độ K: " + temperature.getKelvin());
 </script>
 </body>
 </html>

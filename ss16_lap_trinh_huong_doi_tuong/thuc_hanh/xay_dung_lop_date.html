@@ -34,6 +34,16 @@
         }
 
     };
+    class MyDate{
+        constructor(day, month, year) {
+            this.day = day;
+            this.month = month;
+            this.year = year;
+        }
+      getDay() {
+            return this.day;
+        }
+    }
     let date = new MyDate(2, 2, 2007);
 
     date.setDay(25);

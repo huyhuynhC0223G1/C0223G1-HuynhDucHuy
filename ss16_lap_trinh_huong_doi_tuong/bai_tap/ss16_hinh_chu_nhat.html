@@ -12,15 +12,12 @@
             this.height = height;
             this.width = width;
         }
-
         getArea() {
             return this.width * this.height;
         }
-
         getPerimeter() {
             return (this.width + this.height) * 2;
         }
-
         canvas() {
             let c = document.getElementById("mycanvas");
             let ctx = c.getContext("2d");
@@ -30,7 +27,6 @@
             ctx.fill();
         }
     }
-
     let rectagle = new Rectagle(50, 150);
     rectagle.canvas();
     document.write("<br>" + "Diện tích hình chữ nhật là: " + rectagle.getArea() + "<br>");
