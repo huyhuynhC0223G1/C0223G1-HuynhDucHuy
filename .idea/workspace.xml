@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e5ebf9f0-7f5d-4354-b20f-be21da5738ea" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ss16_lap_trinh_huong_doi_tuong/bai_tap/ss16_du_lieu_nhiet_do.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss16_lap_trinh_huong_doi_tuong/bai_tap/ss16_hinh_chu_nhat.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss16_lap_trinh_huong_doi_tuong/thuc_hanh/a.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss16_lap_trinh_huong_doi_tuong/thuc_hanh/funny_circles.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss16_lap_trinh_huong_doi_tuong/thuc_hanh/xay_dung_lop_date.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss16_lap_trinh_huong_doi_tuong/thuc_hanh/xay_dung_lop_hinh_tron.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss14_ham_1/bai_tap/ss14_1_5_chom_sao.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss14_ham_1/bai_tap/ss14_1_5_chom_sao.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ss14_ham_1/bai_tap/ss14_2_1_binh_phuong_mot_so.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss14_ham_1/bai_tap/ss14_2_1_binh_phuong_mot_so.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +85,10 @@
       <workItem from="1679275107042" duration="12640000" />
       <workItem from="1679293724901" duration="4087000" />
       <workItem from="1679303697665" duration="1174000" />
+      <workItem from="1679306625730" duration="660000" />
+      <workItem from="1679367463330" duration="1998000" />
+      <workItem from="1679369511853" duration="4778000" />
+      <workItem from="1679379077475" duration="114000" />
     </task>
     <servers />
   </component>
