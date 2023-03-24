@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let numerators = [4, 5, 6, 3];
+    let denominators = [4, 3, 9, 9];
+    for (let i = 0; i < numerators.length; i++) {
+        for (let j = 0; j < denominators.length; j++) {
+            max = numerators[0] / denominators[0];
+            if (i == j) {
+                if (max < (numerators[i] / denominators[j])) {
+                    max = (numerators[i] / denominators[j]);
+                } else {
+                    max = max;
+                }
+            }
+        }
+    }
+    alert(i)
+    alert(max + " là phân số lớn nhất, có chỉ số là");
+</script>
+</body>
+</html>
