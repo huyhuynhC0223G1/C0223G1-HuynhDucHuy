@@ -5,16 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e5ebf9f0-7f5d-4354-b20f-be21da5738ea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/case_study/p1_1_thue_ca_nhan.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case_study/p1_2_kiem_tra_ki_tu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case_study/p2_1_tam_giac_vuong_rong.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case_study/p2_2_tam_giac_can.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case_study/p2_3_ve_tam_giac_can_rong..html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case_study/p3_1_prefix_sum.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case_study/p3_2_tim_mang.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case_study/p3_3_tim_chi_so.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case_study/p3_4_menu.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss5_form_table/bai_tap/form_lay_survey_khach.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss5_form_table/bai_tap/form_lay_survey_khach.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_study/p3_2_tim_mang.html" beforeDir="false" afterPath="$PROJECT_DIR$/case_study/p3_2_tim_mang.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_study/p3_3_tim_chi_so.html" beforeDir="false" afterPath="$PROJECT_DIR$/case_study/p3_3_tim_chi_so.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +102,8 @@
       <workItem from="1679536912893" duration="12320000" />
       <workItem from="1679585517249" duration="1399000" />
       <workItem from="1679620587536" duration="17933000" />
-      <workItem from="1679655643963" duration="880000" />
+      <workItem from="1679655643963" duration="1484000" />
+      <workItem from="1679821361672" duration="5359000" />
     </task>
     <servers />
   </component>
