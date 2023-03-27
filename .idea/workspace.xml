@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e5ebf9f0-7f5d-4354-b20f-be21da5738ea" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/case_study/p4_1_doi_xau_ki_tự.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case_study/p4_2_dem_ki_tu_khac_nhau.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case_study/p4_3_tim_ki_tu_chung.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case_study/p5_1_tong_so_chan.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case_study/p5_2_dem_so_nguyen_to.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case_study/p5_3_tim_max_min.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/case_study/p3_4_menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/case_study/p3_4_menu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_study/p1_1_thue_ca_nhan.html" beforeDir="false" afterPath="$PROJECT_DIR$/case_study/p1_1_thue_ca_nhan.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,6 +109,9 @@
       <workItem from="1679655643963" duration="1484000" />
       <workItem from="1679821361672" duration="5755000" />
       <workItem from="1679827318646" duration="75000" />
+      <workItem from="1679827432834" duration="778000" />
+      <workItem from="1679879196808" duration="22577000" />
+      <workItem from="1679917832343" duration="6995000" />
     </task>
     <servers />
   </component>

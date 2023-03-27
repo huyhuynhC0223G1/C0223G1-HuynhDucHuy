@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let string="huy duc";
+    let array=string.split("");
+    let result = [];
+    for (let i = 0; i < array.length; i++) {
+        array[0] = array[0].toUpperCase();
+        if (array[i] == " ") {
+            result.push(array[i]);
+            array[i + 1] = array[i + 1].toUpperCase();
+        } else {
+            result.push(array[i]);
+        }
+    }
+    alert("Chuỗi sau khi biến đổi là:" + result.join(''));
+    // let string = "     trAn    Mimh      Huy    ";
+    // string = string.toLowerCase()
+    // let array = string.split(" ");
+    // let array1 = [];
+    // for (let i = 0; i < array.length; i++) {
+    //     if (array[i] != "") {
+    //         array1.push(array[i])
+    //     }else{
+    //
+    //     }
+    // }
+    // let newarray = [];
+    // for (let i = 0; i < array1.length; i++) {
+    //     array1[0] = array1[0].toUpperCase();
+    //     if (array1[i] = "") {
+    //         newarray.push(array1[i]);
+    //         array1[i + 1] = array1[i + 1].toUpperCase();
+    //     } else {
+    //         newarray.push(array1[i]);
+    //     }
+    //
+    // }let a=newarray.join(" ")
+    // alert("Chuỗi sau chuyển đổi là; " + a);
+
+
+
+    // let t="hhhhh";
+    // let to=t[0].toUpperCase();
+    // let t1=t.slice(1,t.length-1)
+    // alert(to,t1)
+
+    // alert(r)
+</script>
+</body>
+</html>
