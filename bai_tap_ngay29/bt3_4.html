@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<button onclick="themMoi()">Thêm mới</button>
+<button onclick="suaDoi()">Sửa thông tin máy tính</button>
+<button onclick="xoaMayTinh()">Xóa</button>
+<p id="display"></p>
+<table border="=1">
+    <tr>
+        <th>Mã máy</th>
+        <th>Tên máy</th>
+        <th>Hãng sản xuất</th>
+        <th>Giá bán</th>
+    </tr>
+    <tr>
+        <td></td>
+    </tr>
+</table>
+<script>
+    let arr1 = new MayTinh("MT-1", "laptop1", "dell", "20");
+    arr.push(arr1);
+
+    class MayTinh {
+        constructor(ma, ten, hang, gia) {
+            this.ma = ma;
+            this.ten = ten;
+            this.hang = hang;
+            this.gia = gia;
+        }
+
+        getMa() {
+            return this.ma;
+        }
+
+        getTen() {
+            return this.ten;
+        }
+
+        getHang() {
+            return this.hang;
+        }
+
+        getGia() {
+            return this.gia;
+        }
+
+        setMa() {
+            this.ma = ma;
+        }
+
+        setTen() {
+            this.ten = ten;
+        }
+
+        setHang() {
+            this.hang = hang;
+        }
+
+        setGia() {
+            this.gia = gia;
+        }
+    }
+
+    function MayTinh() {
+
+    }
+</script>
+</body>
+</html>

@@ -6,51 +6,32 @@
 </head>
 <body>
 <script>
-    let string="huy duc";
-    let array=string.split("");
-    let result = [];
-    for (let i = 0; i < array.length; i++) {
-        array[0] = array[0].toUpperCase();
-        if (array[i] == " ") {
-            result.push(array[i]);
-            array[i + 1] = array[i + 1].toUpperCase();
-        } else {
-            result.push(array[i]);
+    function doiXau() {
+
+        let string = "     trAn    Mimh      Huy    ";
+        string = string.toLowerCase()
+        let array = string.split(" ");
+        let arrayA = [];
+        for (let i = 0; i < array.length; i++) {
+            if (array[i] != "") {
+                arrayA.push(array[i])
+            }
         }
+        let max = 0;
+        let arrayR = [];
+        for (let i = 0; i < arrayR.length; i++) {
+            let result = arrayA[i].charAt(0).toUpperCase() + arrayA[i].slice(1);
+            arrayR.push(result);
+
+            if (arrayR[i].length > max) {
+                max = arrayR[i].length;
+            }
+        }
+        document.write(arrayR.join('') + "<br/>");
+        document.write("Từ dài nhất là = " + max);
     }
-    alert("Chuỗi sau khi biến đổi là:" + result.join(''));
-    // let string = "     trAn    Mimh      Huy    ";
-    // string = string.toLowerCase()
-    // let array = string.split(" ");
-    // let array1 = [];
-    // for (let i = 0; i < array.length; i++) {
-    //     if (array[i] != "") {
-    //         array1.push(array[i])
-    //     }else{
-    //
-    //     }
-    // }
-    // let newarray = [];
-    // for (let i = 0; i < array1.length; i++) {
-    //     array1[0] = array1[0].toUpperCase();
-    //     if (array1[i] = "") {
-    //         newarray.push(array1[i]);
-    //         array1[i + 1] = array1[i + 1].toUpperCase();
-    //     } else {
-    //         newarray.push(array1[i]);
-    //     }
-    //
-    // }let a=newarray.join(" ")
-    // alert("Chuỗi sau chuyển đổi là; " + a);
+doiXau();
 
-
-
-    // let t="hhhhh";
-    // let to=t[0].toUpperCase();
-    // let t1=t.slice(1,t.length-1)
-    // alert(to,t1)
-
-    // alert(r)
 </script>
 </body>
 </html>
